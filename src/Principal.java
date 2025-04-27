@@ -5,7 +5,7 @@ public class Principal {
         Scanner scanner = new Scanner(System.in);
 
 
-        // este es un mensaje nuevo
+
         System.out.println("what is your name? ");
         String name = scanner.nextLine();
         System.out.println("What is your number? ");
