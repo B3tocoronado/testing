@@ -11,11 +11,10 @@ public class Principal {
         System.out.println("What is your number? ");
         int number = scanner.nextInt();
 
-        System.out.println("Your name is "+name + " your number is "+ number);
+        int i=0;
+        while (i < number ){
+            System.out.println(name+" ERES UN GAY");
+            i++;
+        }
     }
-
-
-
-
-
 }
